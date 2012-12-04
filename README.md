@@ -1,29 +1,11 @@
-# ULL::ETSII::Alu3299::LambdaRegexp
+	Autora:			María D. Batista Galván
+	Fecha:			Lunes 3 de Diciembre de 2012
+	Asignatura:		Lenguajes y Paradigmas de la Programación.
+	Práctica:		Laboratorio 11 : Un Lambda-Engine para las Expresiones Regulares
 
-TODO: Write a gem description
+	Este repositorio está creado para la asignatura de "Lenguajes y Paradigmas de la Programación".
 
-## Installation
+	En dicha asignatura y para esta décima primera práctica se debía realizar los siguientes pasos:
 
-Add this line to your application's Gemfile:
-
-    gem 'ULL-ETSII-Alu3299-LambdaRegexp'
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install ULL-ETSII-Alu3299-LambdaRegexp
-
-## Usage
-
-TODO: Write usage instructions here
-
-## Contributing
-
-1. Fork it
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create new Pull Request
+	Véase Práctica: Un Motor para las Expresiones Regulares en Pocas Líneas (https://dl.dropbox.com/u/14539152/LPP/LPPbook/node44.html) para una descripción detallada
+	Si el enlace queda obsoleto busque en el índice de los apuntes (http://http//nereida.deioc.ull.es/~lpp/perlexamples/) por las sección: "Práctica: Un Motor para las Expresiones Regulares en Pocas Líneas"

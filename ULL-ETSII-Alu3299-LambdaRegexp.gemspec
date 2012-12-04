@@ -8,9 +8,9 @@ Gem::Specification.new do |gem|
   gem.version       = ULL::ETSII::Alu3299::LambdaRegexp::VERSION
   gem.authors       = ["mdbgalvan"]
   gem.email         = ["magomenlopark@gmail.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
-  gem.homepage      = ""
+  gem.description   = %q{Expresiones regulares}
+  gem.summary       = %q{Cazador de prefijos}
+  gem.homepage      = "https://github.com/mdbGalvan/LPP_Lab11"
 
   gem.files         = `git ls-files`.split($/)
   gem.executables   = gem.files.grep(%r{^bin/}).map{ |f| File.basename(f) }

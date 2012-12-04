@@ -1,3 +1,6 @@
+	# Backup
+*~
+	# bundle gem
 *.gem
 *.rbc
 .bundle
