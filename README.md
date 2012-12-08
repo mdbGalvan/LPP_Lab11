@@ -1,8 +1,8 @@
-**Autora:**			*María D. Batista Galván*
-**Fecha:**			*Lunes 3 de Diciembre de 2012*
-**Asignatura:**		*Lenguajes y Paradigmas de la Programación.*
-**Práctica:**		**Laboratorio 11 :** *Un Lambda-Engine para las Expresiones Regulares*
-**URL_GEM:**		[https://rubygems.org/gems/LambdaRegexp](https://rubygems.org/gems/LambdaRegexp)
+**Autora:**			*María D. Batista Galván*  
+**Fecha:**			*Lunes 3 de Diciembre de 2012*  
+**Asignatura:**		*Lenguajes y Paradigmas de la Programación.*  
+**Práctica:**		**Laboratorio 11 :** *Un Lambda-Engine para las Expresiones Regulares*  
+**URL_GEM:**		[https://rubygems.org/gems/LambdaRegexp](https://rubygems.org/gems/LambdaRegexp)  
 
 ##Pasos
 
