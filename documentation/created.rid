@@ -1,0 +1,10 @@
+Sun, 16 Dec 2012 18:26:08 +0000
+./bin/lambdaRegexp_main.rb	Sat, 08 Dec 2012 22:42:39 +0000
+./Gemfile	Sat, 08 Dec 2012 22:42:39 +0000
+./LICENSE.txt	Sat, 08 Dec 2012 22:42:39 +0000
+./lib/LambdaRegexp.rb	Sun, 16 Dec 2012 18:24:19 +0000
+./lib/LambdaRegexp/version.rb	Sun, 16 Dec 2012 18:26:05 +0000
+./lib/LambdaRegexp/lambdaRegexp.rb	Sun, 16 Dec 2012 18:25:58 +0000
+./Guardfile	Sat, 08 Dec 2012 22:42:39 +0000
+./Rakefile	Sun, 16 Dec 2012 18:09:18 +0000
+./spec/LambdaRegexp_spec.rb	Sat, 08 Dec 2012 22:42:39 +0000

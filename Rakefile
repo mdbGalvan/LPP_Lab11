@@ -15,3 +15,8 @@ desc "Run rspec with --format documentation"
 task :doc do
   sh "rspec -Ilib spec/*.rb --format documentation --color"
 end
+
+desc "Run RDoc with -o --main"
+task :rdoc do
+	sh "rdoc -o documentation --main lib/LambdaRegexp.rb"
+end

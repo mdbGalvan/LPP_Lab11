@@ -47,7 +47,7 @@ module ULL
     end
 end
 
-class Proc
+class Proc #:nodoc:
     include ULL::ETSII::Alu3299::LambdaRegexp
 
     # · Concatenación: seguido de
@@ -77,7 +77,7 @@ class Proc
 
 end
 
-class String
+class String #:nodoc:
     include ULL::ETSII::Alu3299::LambdaRegexp
 
     # Cadena
